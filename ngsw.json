@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1592436996017,
+  "timestamp": 1592821492502,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.6220fb16fc7246e40307.js",
-        "/main-es5.6220fb16fc7246e40307.js",
+        "/main-es2015.11935f1a9a1c3912ba99.js",
+        "/main-es5.11935f1a9a1c3912ba99.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.690002c25ea8557bb4b0.js",
         "/polyfills-es5.9e286f6d9247438cbb02.js",
@@ -21,7 +21,9 @@
       ],
       "patterns": [
         "https:\\/\\/scripts\\.sirv\\.com\\/sirv\\.nospin\\.js",
-        "https:\\/\\/rogersampaio\\.sirv\\.com\\/me\\.png\\?w=44&h=44"
+        "https:\\/\\/rogersampaio\\.sirv\\.com\\/me\\.png\\?scale\\.option=fill&scale\\.width=44&scale\\.height=44",
+        "https:\\/\\/rogersampaio\\.sirv\\.com\\/me\\.png\\?w=50&sharpen=20&q=100&png\\.optimize=true",
+        "https:\\/\\/rogersampaio\\.sirv\\.com\\/me\\.png\\?w=50&h=50"
       ]
     },
     {
@@ -52,9 +54,9 @@
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "cb7e787b4bcd2303111c6e9549de5144c65df009",
-    "/main-es2015.6220fb16fc7246e40307.js": "eea4d0aab9d8e7379443a3135eeb736502340c1c",
-    "/main-es5.6220fb16fc7246e40307.js": "16286fe8767b33fe3f80f49b0e476c3f99b575f5",
+    "/index.html": "363248dc694f20c6787570dbc1484ba0fe938224",
+    "/main-es2015.11935f1a9a1c3912ba99.js": "49ac8f2aeb656582fd613053ba792988e9d904b4",
+    "/main-es5.11935f1a9a1c3912ba99.js": "0ba7917b887e7171da45d0dd88b7aae73478454c",
     "/manifest.webmanifest": "8a11c76ebad8cca631fd874d240133e9e2c295fa",
     "/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/polyfills-es5.9e286f6d9247438cbb02.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
