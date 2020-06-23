@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1592821492502,
+  "timestamp": 1592941513944,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -22,6 +22,7 @@
       "patterns": [
         "https:\\/\\/scripts\\.sirv\\.com\\/sirv\\.nospin\\.js",
         "https:\\/\\/rogersampaio\\.sirv\\.com\\/me\\.png\\?scale\\.option=fill&scale\\.width=44&scale\\.height=44",
+        "https:\\/\\/rogersampaio\\.sirv\\.com\\/me\\.png\\?scale\\.option=fill&scale\\.width=88&scale\\.height=88&sharpen=20&quality=100&png\\.optimize=true",
         "https:\\/\\/rogersampaio\\.sirv\\.com\\/me\\.png\\?w=50&sharpen=20&q=100&png\\.optimize=true",
         "https:\\/\\/rogersampaio\\.sirv\\.com\\/me\\.png\\?w=50&h=50"
       ]
